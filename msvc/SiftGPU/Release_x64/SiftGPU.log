@@ -1,0 +1,24 @@
+﻿  CLTexImage.cpp
+  FrameBufferObject.cpp
+  GlobalUtil.cpp
+  GLTexImage.cpp
+  ProgramCL.cpp
+  ProgramGLSL.cpp
+  ProgramGPU.cpp
+  PyramidCL.cpp
+  PyramidGL.cpp
+  ServerSiftGPU.cpp
+..\..\src\ServerSiftGPU\ServerSiftGPU.cpp(200): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2238) : 参见“gethostbyname”的声明
+..\..\src\ServerSiftGPU\ServerSiftGPU.cpp(455): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+..\..\src\ServerSiftGPU\ServerSiftGPU.cpp(476): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+..\..\src\ServerSiftGPU\ServerSiftGPU.cpp(489): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+..\..\src\ServerSiftGPU\ServerSiftGPU.cpp(559): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  ShaderMan.cpp
+  SiftGPU.cpp
+..\..\src\SiftGPU\SiftGPU.cpp(1372): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  SiftMatch.cpp
+  SiftPyramid.cpp
+  正在生成代码...
+     正在创建库 ../../lib/SIFTGPU.lib 和对象 ../../lib/SIFTGPU.exp
+  SiftGPU.vcxproj -> F:\Projects\Stitch\C++\GPU-SIFT\SiftGPU\msvc\SiftGPU\..\..\bin\SiftGPU.dll

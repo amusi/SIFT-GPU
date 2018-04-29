@@ -1,0 +1,20 @@
+﻿  SiftPyramid.cpp
+  SiftMatch.cpp
+  SiftGPU.cpp
+  ShaderMan.cpp
+  ServerSiftGPU.cpp
+f:\projects\stitch\c++\gpu-sift\siftgpu\src\serversiftgpu\serversiftgpu.cpp(200): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238) : 参见“gethostbyname”的声明
+  PyramidGL.cpp
+  PyramidCL.cpp
+  ProgramGPU.cpp
+  ProgramGLSL.cpp
+  ProgramCL.cpp
+  GLTexImage.cpp
+  GlobalUtil.cpp
+  FrameBufferObject.cpp
+  CLTexImage.cpp
+  正在生成代码...
+CLTexImage.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+     正在创建库 ../../lib/SIFTGPU_d.lib 和对象 ../../lib/SIFTGPU_d.exp
+  SiftGPU.vcxproj -> F:\Projects\Stitch\C++\GPU-SIFT\SiftGPU\msvc\SiftGPU\..\..\bin\SiftGPU_d.dll
